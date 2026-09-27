@@ -24,8 +24,8 @@
       "telephone": "+916280965689",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Main Market Road, Near Bus Stop",
-        "addressLocality": "Amarpura",
+        "streetAddress": "Bhagat Singh Chowk, Near Bus Stop",
+        "addressLocality": "Bareka",
         "addressRegion": "PB",
         "postalCode": "152116",
         "addressCountry": "IN"
@@ -1621,7 +1621,7 @@
                     <ul>
                         <li><i class="fas fa-phone"></i> +91 6280965689</li>
                         <li><i class="fab fa-whatsapp"></i> +91 7696957650</li>
-                        <li><i class="fas fa-map-marker-alt"></i> Amarpura Bus Stop, Abohar, Punjab</li>
+                        <li><i class="fas fa-map-marker-alt"></i>Bareka, Bhagat Singh Chowk, Near Bus Stop</li>
                     </ul>
                 </div>
             </div>
